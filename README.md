@@ -16,8 +16,8 @@ To run the project, you'll need:
 1. Clone the repository:
 
 ```
-git clone <git_url>
-cd <repository_name>
+git clone git@github.com:ElnurKoke/web-api.git
+cd web-api
 ```
 
 2. Run the server:
