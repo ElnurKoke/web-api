@@ -1,0 +1,7 @@
+{
+    "port": ":8080",
+    "db":{
+        "dsn" : "webapi.db?_foreign_keys=1",
+        "driver" : "sqlite3"
+    }
+}
